@@ -13,7 +13,7 @@ I am a Software Engineer working as flutter developer with deep knowledge in man
 
 ## Technologies
 
-)![Firebase](https://img.icons8.com/?id=62452&size=35&color=000000)![Git](https://img.icons8.com/color/35/git.png))![Github](https://img.icons8.com/?id=52539&size=35)![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=35) ![Oracle](https://img.icons8.com/color/35/oracle-logo.png)![Docker](https://img.icons8.com/color/35/docker.png)![selenium](https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png)
+![Firebase](https://img.icons8.com/?id=62452&size=35&color=000000)![Git](https://img.icons8.com/color/35/git.png))![Github](https://img.icons8.com/?id=52539&size=35)![MySQL](https://img.icons8.com/?id=UFXRpPFebwa2&size=35)![Oracle](https://img.icons8.com/color/35/oracle-logo.png)![Docker](https://img.icons8.com/color/35/docker.png)![selenium](https://seeklogo.com/images/S/selenium-logo-A1B53CEFB0-seeklogo.com.png)
 
 
 ## Operating Systems & Distributions
