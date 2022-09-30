@@ -9,7 +9,7 @@ I am a Software Engineer working as flutter developer with deep knowledge in man
 
 ## Programming Languages & Frameworks
 
-![Dart](https://img.icons8.com/color/35/dart.png)![Flutter](https://img.icons8.com/color/35/flutter.png)![Java](https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png)![Python](https://img.icons8.com/color/35/python--v1.png)![php](https://www.php.net/images/logos/new-php-logo.png)![Laravel](https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg)![HTML5](https://img.icons8.com/color/35/html-5.png)![CSS3](https://img.icons8.com/color/35/css3.png)![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/35/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)![Bash](https://img.icons8.com/plasticine/35/bash.png)
+![Dart](https://img.icons8.com/color/35/dart.png)![Flutter](https://img.icons8.com/color/35/flutter.png)![Java](https://img.icons8.com/color/35/java-coffee-cup-logo--v1.png)![Python](https://img.icons8.com/color/35/python--v1.png)![php](https://www.php.net/images/logos/new-php-logo.png)![Laravel](https://img.icons8.com/fluency/48/000000/laravel.png)![HTML5](https://img.icons8.com/color/35/html-5.png)![CSS3](https://img.icons8.com/color/35/css3.png)![SQL](https://img.icons8.com/external-soft-fill-juicy-fish/35/external-sql-coding-and-development-soft-fill-soft-fill-juicy-fish.png)![Bash](https://img.icons8.com/plasticine/35/bash.png)
 
 ## Technologies
 
